@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Life-Rp";
+var l_serverName = "Life-RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -44,7 +44,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glimmering.webm";
+var l_background = "backgrounds/videos/modernflourish.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -85,10 +85,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{ogg: "songs/KYLE-iSpy-ft.-Lil-Yachty-_Bass-Boosted_.ogg", name: "Lil Yachty-ispy"},
+	{youtube: "xw48pbyYkNM", name: "LilUzi-Tour-Life"},
+	{youtube: "w9nFDByUEYM", name: "KodakBlack-Tunnel-Vision"}
 ];
 
 /*Random music order?*/
@@ -96,7 +95,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -105,7 +104,10 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Having a Problem With a Player Ask One Of our Staff For Help",
+"Stay Positive!",
+"Current NLR Time:3Mins",
+"Try Your Hardest not to Break Character"
 ];
 
 /*Random message order?*/
