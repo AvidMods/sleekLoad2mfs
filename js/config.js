@@ -13,11 +13,11 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Life-RP";
+var l_serverName = "Zero-X RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
@@ -52,7 +52,10 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/touhou03.jpg",
+	"backgrounds/images/touhou04.jpg",
+	"backgrounds/images/touhou05.jpg",
+	"backgrounds/images/touhou06.jpg"
 ];
 
 /*Random background images order?*/
@@ -85,9 +88,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/KYLE-iSpy-ft.-Lil-Yachty-_Bass-Boosted_.ogg", name: "Lil Yachty-ispy"},
-	{youtube: "xw48pbyYkNM", name: "LilUzi-Tour-Life"},
-	{youtube: "w9nFDByUEYM", name: "KodakBlack-Tunnel-Vision"}
+	{youtube: "LcM9ElA1VHk", name: "Rascal Flats-What Hurts The Most"},
+	{youtube: "8PvebsWcpto", name: "FGL-Cruise"},
+	{youtube: "2QufH01Tmfo", name: "Rascal Flatts- Life Is A highway"}
 ];
 
 /*Random music order?*/
@@ -106,8 +109,10 @@ var l_messages = [
 "Thanks for joining us!",
 "Having a Problem With a Player Ask One Of our Staff For Help",
 "Stay Positive!",
-"Current NLR Time:3Mins",
-"Try Your Hardest not to Break Character"
+"Join Our Steam Group For Constant Updates On Our Server",
+"Try Your Hardest Not to Break Character",
+"Would you Like to Be A Cop... You Must Have 30 Mins On The Server To Be Trained",
+"dont Break Any Rules As there Will Almost Always be An Admin On.. And If There Isnt We Will Still Acationally Check The Console"
 ];
 
 /*Random message order?*/
