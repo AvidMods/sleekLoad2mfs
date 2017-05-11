@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Zero-X RP";
+var l_serverName = "AvidServers";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -88,9 +88,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "LcM9ElA1VHk", name: "Rascal Flats-What Hurts The Most"},
-	{youtube: "8PvebsWcpto", name: "FGL-Cruise"},
-	{youtube: "2QufH01Tmfo", name: "Rascal Flatts- Life Is A highway"}
+	{youtube: "dmJefsOErr0", name: "Rae Sremmurd - Swang"},
+	{youtube: "SC4xMk98Pdc", name: "Post Malone - Congratulations"},
+	{youtube: "FHkMT1Vxi5I", name: "Future - Mask Off"}
 ];
 
 /*Random music order?*/
@@ -111,8 +111,8 @@ var l_messages = [
 "Stay Positive!",
 "Join Our Steam Group For Constant Updates On Our Server",
 "Try Your Hardest Not to Break Character",
-"Would you Like to Be A Cop... You Must Have 30 Mins On The Server To Be Trained",
-"dont Break Any Rules As there Will Almost Always be An Admin On.. And If There Isnt We Will Still Acationally Check The Console"
+"Dont Join To Be A Minge..... You Will Just Get Kicked",
+"Dont Break Any Rules As there Will Almost Always be An Admin On.. And If There Isnt We Will Still Acationally Check The Console"
 ];
 
 /*Random message order?*/
