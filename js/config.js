@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "AvidServers";
+var l_serverName = "ZeroX-RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -88,9 +88,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "dmJefsOErr0", name: "Rae Sremmurd - Swang"},
-	{youtube: "SC4xMk98Pdc", name: "Post Malone - Congratulations"},
-	{youtube: "FHkMT1Vxi5I", name: "Future - Mask Off"}
+	{youtube: "RgKAFK5djSk", name: "See You Again"},
+	{youtube: "SC4xMk98Pdc", name: "Whiskey Lullaby"},
+	{youtube: "FHkMT1Vxi5I", name: "Cruise"}
 ];
 
 /*Random music order?*/
