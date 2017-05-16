@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "RgKAFK5djSk", name: "See You Again"},
-	{youtube: "IZbN_nmxAGk", name: "Whiskey Lullaby"},
+	{youtube: "7gV3g9LCvPc", name: "Whiskey Lullaby"},
 	{youtube: "FHkMT1Vxi5I", name: "Cruise"}
 ];
 
