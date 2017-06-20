@@ -13,11 +13,11 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "ZeroX-RP";
+var l_serverName = "LifeRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
