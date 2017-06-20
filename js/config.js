@@ -44,7 +44,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/modernflourish";
+var l_background = "backgrounds/videos/bluefall";
 
 /*(Image-background only)
 Place one or more images
@@ -80,17 +80,17 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = false;
+var l_music = true;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "RgKAFK5djSk", name: "See You Again"},
-	{youtube: "7gV3g9LCvPc", name: "Whiskey Lullaby"},
-	{youtube: "8PvebsWcpto", name: "Cruise"}
+	{youtube: "iTU8TUSHC5k", name: "Atlas - Alarm"},
+	{youtube: "y2bzH32tQV0", name: "In the Mood (Steampunk Remix)"},
+	{youtube: "GtiFdXg05-4", name: "ProleteR - Alone After All"}
 ];
 
 /*Random music order?*/
