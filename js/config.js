@@ -107,12 +107,10 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Having a Problem With a Player Do !report To report The Player That Is Abusing",
 "Stay Positive!",
 "Join Our Steam Group For Constant Updates On Our Server",
 "Try Your Hardest Not to Break Character",
 "Dont Join To Be A Minge..... You Will Just Get Kicked",
-"If You Want To Start a Party/Join A Party Do !party"
 ];
 
 /*Random message order?*/
