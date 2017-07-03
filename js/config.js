@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "iTU8TUSHC5k", name: "Atlas - Alarm"},
-	{youtube: "y2bzH32tQV0", name: "In the Mood (Steampunk Remix)"},
+	{youtube: "qbZ7y93u8QI", name: "Do You Remember Sadly Edit"},
 	{youtube: "GtiFdXg05-4", name: "ProleteR - Alone After All"}
 ];
 
