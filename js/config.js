@@ -88,7 +88,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "Xmz9CPuQGp0", name: "Jason Aldean - Big Green Tractor"}
+	{youtube: "TyylUeaTT10", name: "2 Chainz - 4 AM"}
 ];
 
 /*Random music order?*/
