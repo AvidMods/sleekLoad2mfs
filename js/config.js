@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "LifeRP";
+var l_serverName = "ZeroX-RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -88,9 +88,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "iTU8TUSHC5k", name: "Atlas - Alarm"},
-	{youtube: "qbZ7y93u8QI", name: "Do You Remember Sadly Edit"},
-	{youtube: "GtiFdXg05-4", name: "ProleteR - Alone After All"}
+	{youtube: "Xmz9CPuQGp0", name: "Jason Aldean - Big Green Tractor"}
 ];
 
 /*Random music order?*/
@@ -98,7 +96,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -111,6 +109,8 @@ var l_messages = [
 "Join Our Steam Group For Constant Updates On Our Server",
 "Try Your Hardest Not to Break Character",
 "Dont Join To Be A Minge..... You Will Just Get Kicked",
+"Say Hi To The Owner Demon If You Se Him :)",
+"Are You A Hunter?....Or Will You Be Hunted?"
 ];
 
 /*Random message order?*/
