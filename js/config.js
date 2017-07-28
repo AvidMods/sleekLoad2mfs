@@ -90,7 +90,7 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "zEC1N9KrBQ0", name: "Akon-Locked Up},
 	{youtube: "Ca_sxbu6FoA", name: "Inner circle - bad boys},
-	{youtube: "43sE-ARCSJ8", name: "DILEMMACHINE - Snake Eyes (Computation Remix)}
+	{youtube: "43sE-ARCSJ8", name: "DILEMMACHINE - Snake Eyes Computation Remix}
 ];
 
 /*Random music order?*/
