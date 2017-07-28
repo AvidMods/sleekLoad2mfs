@@ -17,7 +17,7 @@ var l_serverName = "ZeroX-RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
@@ -88,9 +88,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "zEC1N9KrBQ0", name: "Akon-Locked Up},
-	{youtube: "Ca_sxbu6FoA", name: "Inner circle - bad boys},
-	{youtube: "43sE-ARCSJ8", name: "DILEMMACHINE - Snake Eyes Computation Remix}
+	{youtube: "zEC1N9KrBQ0", name: "Akon-Locked Up}",
+	{youtube: "Ca_sxbu6FoA", name: "Inner circle - bad boys}",
+	{youtube: "43sE-ARCSJ8", name: "DILEMMACHINE - Snake Eyes Computation Remix}"
 ];
 
 /*Random music order?*/
