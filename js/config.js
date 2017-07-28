@@ -88,7 +88,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "TyylUeaTT10", name: "2 Chainz - 4 AM"}
+	{youtube: "zEC1N9KrBQ0", name: "Akon-Locked Up},
+	{youtube: "Ca_sxbu6FoA", name: "Inner circle - bad boys},
+	{youtube: "43sE-ARCSJ8", name: "DILEMMACHINE - Snake Eyes (Computation Remix)}
 ];
 
 /*Random music order?*/
@@ -109,8 +111,7 @@ var l_messages = [
 "Join Our Steam Group For Constant Updates On Our Server",
 "Try Your Hardest Not to Break Character",
 "Dont Join To Be A Minge..... You Will Just Get Kicked",
-"Say Hi To The Owner Demon If You Se Him :)",
-"Are You A Hunter?....Or Will You Be Hunted?"
+"Say Hi To The Owner Demon If You Se Him :)"
 ];
 
 /*Random message order?*/
