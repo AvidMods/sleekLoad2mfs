@@ -13,11 +13,11 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "ZeroX-RP";
+var l_serverName = "Apollo Gaming";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
@@ -88,9 +88,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "zEC1N9KrBQ0", name: "Akon-Locked Up}",
-	{youtube: "Ca_sxbu6FoA", name: "Inner circle - bad boys}",
-	{youtube: "43sE-ARCSJ8", name: "DILEMMACHINE - Snake Eyes Computation Remix}"
+	{youtube: "7VE3NoWhROc", name: "Swell - I'm Sorry (feat. Shiloh)}"
 ];
 
 /*Random music order?*/
@@ -105,13 +103,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Stay Positive!",
-"Join Our Steam Group For Constant Updates On Our Server",
-"Try Your Hardest Not to Break Character",
-"Dont Join To Be A Minge..... You Will Just Get Kicked",
-"Say Hi To The Owner Demon If You Se Him :)"
+"Enjoy The Server",
+"Thanks For Joining Us!",
+"Be Patient Your Almost Their",
+"Check Out Our Website ",
+"Dont Join To Be A Minge,"
+"Say Hi To The Owners George Hennen,Or AG ShadowGarr If You See Them :)"
 ];
 
 /*Random message order?*/
